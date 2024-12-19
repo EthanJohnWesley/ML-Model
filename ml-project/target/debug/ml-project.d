@@ -1,1 +1,1 @@
-/mnt/c/Users/zque/rust/ml-project/ml-project/target/debug/ml-project: /mnt/c/Users/zque/rust/ml-project/ml-project/src/main.rs
+/Users/ethanjohnwesley/Projects/rust/ML-Model/ml-project/target/debug/ml-project: /Users/ethanjohnwesley/Projects/rust/ML-Model/ml-project/src/main.rs
